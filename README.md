@@ -1,33 +1,34 @@
-#### [Your Name]
+Hi there 👋
 
-**Software Engineering Student | Cross-Platform Developer | Database & Project Management** 
+
+
+Software Engineering Student | Cross-Platform Developer | Database & Project Management
 
 Software Engineering student specializing in cross-platform app development, database administration, and structured project execution. 
 
-* 🎓 Studying **B.Sc. in Software Engineering** at *[Your University Name]*
-* 📫 Reach me at **[your.email@example.com]**
+Technical Stack
 
-#### Projects
+Languages: Dart, Java, C++, C, Python (Basic)
+Frameworks: Flutter (Mobile, Web, Desktop)
+Databases: SQL, Cloud Firestore, Firebase Auth
+Core Skills: Database Administration, Project Management, Agile / SDLC, OOP
 
-[**CampusConnect**](https://github.com/fcfk/campusconnect) A cross-platform student social and academic platform featuring feeds, messaging, study groups, campus events, and role-based Firestore security rules. Flutter Dart Cloud Firestore Firebase Auth 
+Featured Projects
 
-Active development 
+CampusConnect :Flutter, Dart, Firebase
+Cross-platform student platform featuring feeds, messaging, study groups, events, and role-based Firestore security rules.
+StudyPlanner :Flutter, Dart
+Multi-platform academic schedule and task management application.
 
-[**StudyPlanner**](https://github.com/fcfk/studyplanner) A multi-platform academic schedule and task management application built for mobile, web, and desktop. Flutter Dart 
+Education
 
-#### Stack
+B.Sc. in Software Engineering  (In Progress)  
+
+ GitHub Stats
 
  
 
-#### Stats
-
  
 
- 
-
- 
-
-#### Let's Connect
-
-[](https://linkedin.com/in/your-profile)
-[](mailto:your.email@example.com)
+ Connect
+LinkedIn: www.linkedin.com/in/eric-semana-munezero-a044a6341
