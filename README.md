@@ -34,4 +34,5 @@ B.Sc. in Software Engineering  (In Progress)  
 LinkedIn: www.linkedin.com/in/eric-semana-munezero-a044a6341
 
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Eric-art7&show_icons=true)](https://github.com/stats-organization/github-stats-extended&show_icons=true)
+<img alt = "Stats" src ="https://github-stats-extended.vercel.app/api?username=Eric-art7"/>
+<img alt = "top long" src ="https://github-stats-extended.vercel.app/api/top-langs/?username=Eric-art7&layout=compact"/>
