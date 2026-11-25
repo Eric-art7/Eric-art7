@@ -1,16 +1,34 @@
-## Hi there 👋
+ Hi there 👋
 
-<!--
-**Eric-art7/Eric-art7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Software Engineering Student | Cross-Platform Developer | Database & Project Management** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software Engineering student specializing in cross-platform app development, database administration, and structured project execution. 
+
+ Technical Stack
+
+Languages: Dart, Java, C++, C, Python (Basic)
+Frameworks:Flutter (Mobile, Web, Desktop)
+Databases: SQL, Cloud Firestore, Firebase Auth
+Core Skills: Database Administration, Project Management, Agile / SDLC, OOP
+
+ Featured Projects
+
+CampusConnect :Flutter, Dart, Firebase
+Cross-platform student platform featuring feeds, messaging, study groups, events, and role-based Firestore security rules.
+StudyPlanner :Flutter, Dart
+Multi-platform academic schedule and task management application.
+
+Education
+
+B.Sc. in Software Engineering** *(In Progress)* — *[Your University Name]* 
+
+ GitHub Stats
+
+ 
+
+ 
+
+ Connect
+
+LinkedIn: www.linkedin.com/in/eric-semana-munezero-a044a6341
