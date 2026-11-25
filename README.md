@@ -17,7 +17,8 @@ Featured Projects
 
 CampusConnect :Flutter, Dart, Firebase
 Cross-platform student platform featuring feeds, messaging, study groups, events, and role-based Firestore security rules.
-StudyPlanner :Flutter, Dart
+
+StudyPlanner:Flutter, Dart
 Multi-platform academic schedule and task management application.
 
 Education
