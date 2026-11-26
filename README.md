@@ -35,5 +35,4 @@ B.Sc. in Software Engineering  (In Progress)  
 LinkedIn: www.linkedin.com/in/eric-semana-munezero-a044a6341
 
 
-<img alt = "Stats" src ="https://github-stats-extended.vercel.app/api?username=Eric-art7"/>
-<img alt = "top long" src ="https://github-stats-extended.vercel.app/api/top-langs/?username=Eric-art7&layout=compact"/>
+<img alt = "Stats" src ="https://github-stats-extended.vercel.app/api?username=Eric-art7"/> <img alt = "top long" src ="https://github-stats-extended.vercel.app/api/top-langs/?username=Eric-art7&layout=compact"/>
